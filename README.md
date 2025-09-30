@@ -1,7 +1,6 @@
 ✅ GenAI Code Checker
 
 An AI-powered code evaluation system built with Python, OCR, and Generative AI.
-
 This project helps educators evaluate programming assignments from images, PDFs, or text submissions by extracting code, validating it, and generating automated marking reports with detailed feedback.
 
 🚀 Features
